@@ -1,4 +1,4 @@
-# Patrimonio API
+# Patrimonio API (Java - Spring Boot)
 
 Este repositório contém o projeto(Spring Boot API - Backend) API feito no Workshop de Angular, REST e Spring da AlgaWorks.
 
