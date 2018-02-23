@@ -18,7 +18,7 @@ import com.algaworks.patrimonioapi.repository.ItemRepository;
  * @author Karen 21 de fev de 2018
  */
 @RestController
-//@CrossOrigin("${origem-permitida}")
+@CrossOrigin("${origem-permitida}")
 public class ItemResource {
 
 	@Autowired
